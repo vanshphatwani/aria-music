@@ -1,0 +1,15 @@
+services:
+  aria:
+    build: .
+    container_name: aria
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./music:/app/music
+      - ./playlists.json:/app/playlists.json
+      - ./cache:/app/cache
+    environment:
+      - PORT=3000
+      - MUSIC_DIR=/app/music
+      - LASTFM_KEY=YOUR_LASTFM_API_KEY_HERE

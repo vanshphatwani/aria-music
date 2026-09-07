@@ -1,7 +1,5 @@
-<img width="1440" height="900" alt="Screenshot 2026-09-07 at 22 05 25" src="https://github.com/user-attachments/assets/4bff3eb2-203a-4302-9e43-fe44c635370c" />
-
 # Aria 🎵
-
+<img width="1440" height="900" alt="Screenshot 2026-09-07 at 22 05 25" src="https://github.com/user-attachments/assets/4bff3eb2-203a-4302-9e43-fe44c635370c" />
 **A modern, multi-user, self-hosted music ecosystem.**
 
 Aria is a comprehensive, self-hosted music server and Progressive Web App (PWA). It evolved from a personal desire to have a Spotify-like experience on a private Tailscale network, complete with multi-user profiles, synced listening sessions, and algorithmic radio stations.

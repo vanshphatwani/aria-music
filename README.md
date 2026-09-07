@@ -1,3 +1,5 @@
+<img width="1440" height="900" alt="Screenshot 2026-09-07 at 22 05 25" src="https://github.com/user-attachments/assets/4bff3eb2-203a-4302-9e43-fe44c635370c" />
+
 # Aria 🎵
 
 **A modern, multi-user, self-hosted music ecosystem.**
